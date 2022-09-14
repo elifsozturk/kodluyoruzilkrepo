@@ -1,5 +1,7 @@
-# Kodluyoruz İlk Repo
-Bu repo Kodluyoruz Veri Bilimi Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+# Kodluyoruz Ilk Repo
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Veri Bilimi Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.
