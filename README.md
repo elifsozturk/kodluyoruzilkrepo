@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Veri Bilimi Eğitimi kapsamında a
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
-Öncelikle projeyi clonelayın.
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 ```
 git clone https://github.com/elifsozturk/kodluyoruzilkrepo.git
 ```
