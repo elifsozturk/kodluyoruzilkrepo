@@ -6,4 +6,11 @@ Bu repo Kodluyoruz Veri Bilimi Eğitimi kapsamında açtığım ilk repo. İçer
 ```
 git clone https://github.com/elifsozturk/kodluyoruzilkrepo.git
 ```
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
