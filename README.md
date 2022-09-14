@@ -4,8 +4,5 @@ Bu repo Kodluyoruz Veri Bilimi Eğitimi kapsamında açtığım ilk repo. İçer
 ##Installation
 Öncelikle projeyi clonelayın.(https://github.com/elifsozturk/kodluyoruzilkrepo.git)
 
-'''
-git clone https://github.com/elifsozturk/kodluyoruzilkrepo.git
-'''
 
 
